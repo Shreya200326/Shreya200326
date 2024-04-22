@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Shreya200326
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Projects
+This project is on Sentiment Analysis using NLP
 
 <!---
 Shreya200326/Shreya200326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
